@@ -11,7 +11,7 @@ Levantamento de Requisitos
 - Fornecedor
 
 ## Narrativa - Produto
-- Os produtos sãp vendidos por uma [unica plataforma online.
+- Os produtos sãp vendidos por uma unica plataforma online
   Contudo, estes podem ter vendedores distintos(terceiros)
 - Cada produto possui um fornecedor
 - Um ou mais produtos podem compor um pedido
@@ -19,9 +19,10 @@ Levantamento de Requisitos
 ## Narrativa - Cliente
 - O cliente pode se cadastrar no site com seu CPF ou CNPJ
 - O Endereço do cliente irá determinar o valor do frete
-- Um cliente pode comprar mais de um pedido.Este tem um período de carência para devolução do produto
+- Um cliente pode comprar mais de um pedido. Este tem um período de carência para devolução do produto
 
 ## Narrativa - Fornecedor & estoque
+- Vamos pensar juntos ...
 
 
 ## Descrição do Desafio:
