@@ -38,7 +38,7 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 
 
-# Projeto Oficina 1
+# Projeto de Oficina 1
 
 ## Descrição do Desafio
 
